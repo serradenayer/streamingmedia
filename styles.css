@@ -235,7 +235,7 @@ a.btn:hover {
 a.btn:focus, a:focus, input:focus, audio:focus {
     outline: solid #590242;
 }
-
+/*responsive 375*/
 @media screen and (min-width:375px) {
     
     main {
@@ -351,7 +351,7 @@ a.btn:focus, a:focus, input:focus, audio:focus {
     }
 
 }
-
+/*responsive 834*/
 @media screen and (min-width:834px) {
 
     body {
@@ -442,6 +442,7 @@ a.btn:focus, a:focus, input:focus, audio:focus {
     }
     
 } 
+/*scrollbar*/
 #trendingSongs ::-webkit-scrollbar {
     width: 15px;
 }

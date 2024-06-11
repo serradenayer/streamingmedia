@@ -157,12 +157,12 @@ dd {
     overflow-y: hidden;
 }
 
-#yourPlaylists .playlistDescription {
-    background-color: #0d8dFB;
-}
-
 #yourPlaylists .playlists {
     background-color: #2699FB;
+}
+
+#yourPlaylists .playlistDescription {
+    background-color: #0d8dFB;
 }
 
 .playlistDescription {
